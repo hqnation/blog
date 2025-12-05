@@ -43,8 +43,8 @@ theme_mode: light
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
-social_preview_image: 
+avatar: "https://upld.zone.id/uploads/eaid6qiq/hq.webp"
+social_preview_image: "https://upld.zone.id/uploads/eaid6qiq/og.webp"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
