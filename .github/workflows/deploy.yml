@@ -70,4 +70,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-           path: "_site${{ steps.deployment.outputs.page_url }}
+           path: "_site${{ steps.deployment.outputs.page_url }}"
